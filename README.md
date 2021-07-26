@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amelia-Lin
 - 👩 I'm a qualified school teacher looking to change careers
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in software development and data analysis
+- 🌱 I'm a beginner Pythonista, learning AWS
 - 💞️ I’m looking to collaborate on projects I can learn from
 
 <!---
